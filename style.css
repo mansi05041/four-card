@@ -37,9 +37,8 @@ h2{
 }
 
 .col-lg-3{
-padding-top: 3%;
-padding-bottom: 2.5%;
- box-shadow: 0 5px 5px -5px hsl(234, 12%, 34%),
+padding: 3% 3% 2.5% 2% ;
+box-shadow: 0 5px 5px -5px hsl(234, 12%, 34%),
             -5px 0 5px -5px hsl(229, 6%, 66%),
             5px 0 5px -5px hsl(229, 6%, 66%);
  border-radius: 1%;
@@ -48,28 +47,28 @@ padding-bottom: 2.5%;
 .supervisor{
   border-top: 5px solid hsl(180, 62%, 55%);
   position: relative;
-  left:120px;
+  left: 6rem;
 }
 
 .team{
   border-top: 5px solid hsl(0, 78%, 62%);
   position: relative;
-  bottom:120px;
-  left:160px;
+  bottom:6rem;
+  left:9rem;
+
 }
 
 .karma{
    border-top: 5px solid hsl(34, 97%, 64%);
-   position:relative;
-   top:180px;
-   right:150px;
-   bottom:50px;
+   position: relative;
+   top:12rem;
+   right:8.3rem;
 }
 
 .calculator{
    border-top: 5px solid hsl(212, 86%, 64%);
    position: relative;
-   right:105px;
+   right: 5rem;
 }
 
 h3{
@@ -101,11 +100,11 @@ h3{
   }
 
   .top-container-about{
-     line-height: 1.5; 
+     line-height: 1.5;
   }
-  
+
   .about{
-    font-size: 0.85rem;
+    font-size: 0.75rem;
   }
 
   .col-lg-3{
@@ -116,7 +115,7 @@ h3{
   }
 
   .image{
-    margin-top: -5%; 
+    margin-top: -5%;
   }
 
 }
